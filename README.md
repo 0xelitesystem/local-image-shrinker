@@ -1,8 +1,8 @@
-# Image Compressor
+# Local Image Shrinker
 
 Compress and resize images in your browser. Fully local, no upload, no account.
 
-**Live demo:** https://0xelitesystem.github.io/image-compressor/
+**Live demo:** https://0xelitesystem.github.io/local-image-shrinker/
 
 ## Use
 
@@ -36,8 +36,8 @@ Everything runs in your browser. Your images are decoded, resized, and re-encode
 Clone the repository and open the file directly:
 
 ```
-git clone https://github.com/0xelitesystem/image-compressor.git
-cd image-compressor
+git clone https://github.com/0xelitesystem/local-image-shrinker.git
+cd local-image-shrinker
 ```
 
 Then open `index.html` in any modern browser. Because it is a single file with no dependencies, double-clicking it works.
@@ -64,5 +64,5 @@ MIT. See [LICENSE](LICENSE).
 
 ## Related
 
-- https://github.com/0xelitesystem/jwt-inspector
+- https://github.com/0xelitesystem/jwt-verify-in-browser
 - https://github.com/0xelitesystem/eeat-signals-reference
